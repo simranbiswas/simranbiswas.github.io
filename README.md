@@ -1,6 +1,6 @@
 # simranbiswas.github.io
 
-## My Portfolio Website
+## [My Portfolio Website](http://simranbiswas.github.io/)
 
 * Glance through all my projects and work materials.
 
